@@ -1,5 +1,5 @@
 header {
-            background-image: url(../img/banner.jpg);
+            background-image: url(/banner.jpg);
             background-color: #f0f0f0; /* Fondo gris claro */
             color: black; /* Color de texto oscuro */
             padding: 10px; /* Relleno interno */
@@ -51,4 +51,5 @@ footer {
 }
 .estilonav li a:hover{
     background-color: blueviolet;
+
 }
