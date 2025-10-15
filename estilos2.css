@@ -59,7 +59,20 @@ img{
             padding: 30px;
             background-color: #fff8e1; /* Fondo amarillo muy claro para diferenciar */
 }
+#img2{
+            width: 80%; /* Ancho del contenido */
+            margin: 0 auto; /* Centra el contenido horizontalmente (margen superior/inferior 0, izquierdo/derecho auto) */
+            padding: 30px;
+            background-color: #fff8e1; /* Fondo amarillo muy claro para diferenciar */
+}
+#img3{
+            width: 80%; /* Ancho del contenido */
+            margin: 0 auto; /* Centra el contenido horizontalmente (margen superior/inferior 0, izquierdo/derecho auto) */
+            padding: 30px;
+            background-color: #fff8e1; /* Fondo amarillo muy claro para diferenciar */
+}
             
+
 
 
 
