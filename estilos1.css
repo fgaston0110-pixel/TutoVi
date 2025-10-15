@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+}
+h2{
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+}
+p{
+	text-indent: 2cm;
+	text-align: justify;
+}
+body{
+	background-color: aqua;
+	margin: 2.5cm;
+	padding: 2cm;
+	border: 0.5cm solid black;
+	line-height: 1cm;
+}
